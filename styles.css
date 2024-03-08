@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+	border-radius: 100%;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+	border-radius: 10px;
+    justify-content: space-around;
+    text-align: center;
+    background: #223843;
+    color: #DBD3D8;
+    border-bottom: 8px groove #D77A61;
+	transition: background-color 0.5s ease-in 100ms, color 0.5s ease-in 100ms, box-shadow 0.5s ease-out 100ms;
+}
+
+.card:hover {
+	background-color: #EFF1F3;
+	color: black;
+	box-shadow: 3px 3px 8px gray;
+}
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
