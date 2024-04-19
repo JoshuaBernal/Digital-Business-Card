@@ -1,7 +1,7 @@
 # DIGITAL BUSINESS CARD
 
-This is a personal project created with the help of the HTML/CSS Course in Scrimba.com. 
-
+This is a simple personal project created with the help of the HTML/CSS Course in <a href="scrimba.com">Scrimba.com</a>. 
+This website contains my digital business card.
 
 #### LIVE WEBSITE
 
