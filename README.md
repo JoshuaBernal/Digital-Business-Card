@@ -6,4 +6,4 @@ This website contains my digital business card.
 #### LIVE WEBSITE
 
 Open the live website using this Netlify link:
-https://joshuabernal-digibusinesscard.netlify.app/ 
+https://jmb-digibusinesscard.netlify.app/ 
